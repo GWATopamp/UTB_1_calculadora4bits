@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     463666635153364993       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "IEEE - Hex Counter and Logic Gate Validator"      # Project title
+  title:        "IEEE Open Silicon 2026: UTB Hex Counter and Logic Gate Validator"      # Project title
   author:       "George Archbold, Karoll Silva, Camilo Miranda"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A 4-bit asynchronous hex counter paired with a programmable 4-function logic gate tester."      # One line description of what your project does
